@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/p/static/css/main.cf3ae94d.css",
+    "main.js": "/p/static/js/main.0e43b395.js",
+    "static/media/Gemini_Generated_Img1.png": "/p/static/media/Gemini_Generated_Img1.079a44db857a07ee86c6.png",
+    "static/media/Gemini_Generated_Image_contact _edit.png": "/p/static/media/Gemini_Generated_Image_contact _edit.e6b97c4257e2d1e84d09.png",
+    "static/media/color-sharp.png": "/p/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/Gemini_Generated_Image_background.png": "/p/static/media/Gemini_Generated_Image_background.19812c469103c2a4dcd7.png",
+    "static/media/color-sharp2.png": "/p/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/CentraNo2-Bold.ttf": "/p/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/p/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/p/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/revicons.eot": "/p/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/p/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/p/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/whatsapp.avif": "/p/static/media/whatsapp.316e1e4f9b8d328edaa1.avif",
+    "static/media/meter2.svg": "/p/static/media/meter2.a0050a378a929877ac8144049ee0a1bf.svg",
+    "static/media/meter1.svg": "/p/static/media/meter1.c61a2fc3fdd79d551b751c6c0f890ab6.svg",
+    "static/media/meter3.svg": "/p/static/media/meter3.2eda919df32db1af75a222eb99d3a931.svg",
+    "static/media/nav-icon3.svg": "/p/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "static/media/git.svg": "/p/static/media/git.cd06a27274bbd7f59cae284e9b92e98b.svg",
+    "static/media/logo.svg": "/p/static/media/logo.3c6c479cfa1d154dbfccd4d5f91320f4.svg",
+    "static/media/nav-icon1.svg": "/p/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "index.html": "/p/index.html",
+    "static/media/nav-icon2.svg": "/p/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.cf3ae94d.css.map": "/p/static/css/main.cf3ae94d.css.map",
+    "main.0e43b395.js.map": "/p/static/js/main.0e43b395.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3ae94d.css",
+    "static/js/main.0e43b395.js"
+  ]
+}
